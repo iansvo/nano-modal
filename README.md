@@ -1,3 +1,5 @@
+<p>This project is a fork of MicroModal</p>
+<hr>
 <p align="center">
   <img src="https://www.dropbox.com/s/tbaooyi4yh8pbi7/logo.png?raw=1" width="100px"/>
 </p>
